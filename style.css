@@ -1,0 +1,132 @@
+.navbar ul{
+    list-style: none;
+    font-weight: bold;
+    float: left;
+    display: inline;
+     padding:0px;
+     background-color: rgba(0, 0, 0, 0.712);
+     width: max-content;
+     line-height: 50px;
+     margin: 20px;
+     
+    
+}
+.navbar ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    
+    
+}
+.navbar ul li a:hover{
+    color:red;
+    background-color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+    padding-right:2cm ;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 4cm;
+    text-decoration: none;
+  }
+  .j .search-container {
+    float: right;
+  }
+  
+  .j input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  .j .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 20px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .j .search-container button:hover {
+    background: #ccc;
+  }
+  
+
+
+    
+  
+h1{
+    font-style: italic;
+    font-size: 50PX;
+    color: rgb(2, 184, 184);
+    margin-top: 20px;
+}
+.io{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .topnav input[type=text] {
+    float: left;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+  }
+  .u{
+      font: 10px;
+  }
+.r{
+    font-size: 30px;
+}
+img {
+    float: right;
+  }
